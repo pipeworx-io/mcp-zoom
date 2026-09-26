@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-zoom",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Zoom MCP Pack",
   "type": "module",
   "main": "src/index.ts",
@@ -27,6 +27,6 @@
   },
   "pipeworx": {
     "sourceHash": "v1-19830e8428a4c63092593cbb5a397316d18196ec2832a18ca76aca709908e216",
-    "sourceCommit": "2cb50b368da3267446f2b6f6a3ddbd3d0eed3d73"
+    "sourceCommit": "80a4e74332d57cb404fb346e082043e4abd66a8b"
   }
 }
